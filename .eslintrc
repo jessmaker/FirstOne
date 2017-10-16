@@ -1,0 +1,16 @@
+/**
+*Created By Jo'Anne
+*/
+
+"use strict";
+
+function main() {
+    sayHello();
+}
+
+main();
+
+function sayHello() {
+    console.log("Hello");
+
+}
